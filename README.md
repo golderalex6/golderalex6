@@ -8,6 +8,7 @@
 <h3 align="left"><b><ins>TECHNICAL SKILLS</ins></b></h3>
 <ul>
   <li><b> Programming language : </b> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.png" alt="python" width="50" height="50"/> </a> </li>
+  <li><b> Web development : </b> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="django.png" alt="django" width="50" height="50"/> </a> </li>
   <li><b> Databases : </b> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="sqlite.png" alt="SQLite" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="mysql.png" alt="MySQL" width="50" height="50"/> </a> </li>
   <li><b> Data processing : </b> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="pandas.png" alt="Pandas" width="50" height="50"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="numpy.png" alt="Numpy" width="50" height="50"/> </a> </li>
   <li><b> Data visualization : </b> </b> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="matplotlib.png" alt="Matplotlib" width="50" height="50"/> </a> </li>
