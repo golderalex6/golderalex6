@@ -19,7 +19,7 @@
 
 <h3 align="left"><b><ins>SECONDARY SKILLS</ins> </b></h3>
 <ul>
-  <li><b> Report : </b> <a href="https://www.overleaf.com/project" target="_blank" rel="noreferrer"> <img src="latex.png" alt="Latex" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="looker_studio.png" alt="Looker studio" width="50" height="50"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="kaggle.png" alt="Kaggle" width="50" height="50"/> </a> </li>
+  <li><b> Report : </b> <a href="https://www.overleaf.com/project" target="_blank" rel="noreferrer"> <img src="latex.png" alt="Latex" width="50" height="50"/> </a> <a href="https://lookerstudio.google.com/navigation/reporting" target="_blank" rel="noreferrer"> <img src="looker_studio.png" alt="Looker studio" width="50" height="50"/> </a> <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="kaggle.png" alt="Kaggle" width="50" height="50"/> </a> </li>
   <li><b> Version control : </b> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="git.png" alt="Git" width="50" height="50"/> </a>  </li>
   <li><b> Operating system : </b> <a href="https://www.debian.org/index.vi.html" target="_blank" rel="noreferrer"> <img src="debian.png" alt="Debian" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer"> <img src="windows11.png" alt="Window 11" width="50" height="50"/> </a> </li>
   <li><b> Devops :  </b> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="docker.png" alt="Docker" width="50" height="50"/> </a> </li>
