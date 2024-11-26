@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Hoang Long</h1>
 <h3 align="center">I'm a data analyst with a strong passion for statistical and regression analysis. Alongside my main role, I also work as an AI engineer and web developer, exploring ways to apply machine learning and web technologies to real-world problems.</h3>
 <uL>
-  <li>🔭 I’m currently working on projects related to computer vision and NLP.</li>
+  <li>🔭 I’m currently working on projects related to computer vision and time-series analysis.</li>
   <li>📫 How to reach me <a href='mailto:golderalex6@gmail.com'><ins><i>golderalex6@gmail.com</i></ins></a></li>
 </uL>
 <hr>
