@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tran Hoang Long</h1>
 <h3 align="center">I'm a data analyst with a strong passion for statistical and regression analysis. Alongside my main role, I also work as an AI engineer and web developer, exploring ways to apply machine learning and web technologies to real-world problems.</h3>
-
-- 📫 How to reach me **golderalex6@gmail.com**
-
+<uL>
+  <li>🔭 I’m currently working on projects related to computer vision and NLP.</li>
+  <li>📫 How to reach me <a href='mailto:golderalex6@gmail.com'><ins><i>golderalex6@gmail.com</i></ins></a></li>
+</uL>
 <hr>
 
 <h3 align="left"><b><ins>TECHNICAL SKILLS</ins></b></h3>
@@ -25,3 +26,13 @@
   <li><b> Operating system : </b> <a href="https://www.debian.org/index.vi.html" target="_blank" rel="noreferrer"> <img src="debian.png" alt="Debian" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer"> <img src="windows11.png" alt="Window 11" width="50" height="50"/> </a> </li>
   <li><b> Devops :  </b> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="docker.png" alt="Docker" width="50" height="50"/> </a> </li>
 </ul>
+
+<a href="https://github.com/golderalex6#gh-light-mode-only" style='white-space:nowarp;'>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golderalex6&theme=vue" width="65%">
+</a>
+<a href="https://github.com/golderalex6#gh-dark-mode-only" style='white-space:nowarp;'>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golderalex6&theme=zenburn" width="65%">
+</a>
+<a href="https://github.com/golderalex6">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golderalex6&layout=donut" width="30%">
+</a>
