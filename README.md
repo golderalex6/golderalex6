@@ -28,11 +28,11 @@
 </ul>
 
 <a href="https://github.com/golderalex6#gh-light-mode-only" style='white-space:nowarp;'>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golderalex6&theme=vue" width="65%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golderalex6&theme=vue" width="60%">
 </a>
 <a href="https://github.com/golderalex6#gh-dark-mode-only" style='white-space:nowarp;'>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golderalex6&theme=zenburn" width="65%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golderalex6&theme=zenburn" width="60%">
 </a>
 <a href="https://github.com/golderalex6">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golderalex6&layout=donut" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golderalex6&layout=donut" width="35%">
 </a>
